@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about programming, problem-solving,
 
 ## 🚀 Programming Skills
 
-- **Languages:** JavaScript, Python, Java, C++
+- **Languages:** JavaScript, Python, Java
 - **Frameworks:** React, Node.js, Express, Flask
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, Postman
