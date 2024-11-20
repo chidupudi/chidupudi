@@ -63,12 +63,10 @@ Let’s create amazing projects together! 🚀
 
 ## 📫 **Get in Touch**
 
-- **Email**: [rupesh.email@example.com](mailto:rupesh.email@example.com)  
-- **LinkedIn**: [linkedin.com/in/rupesh](https://linkedin.com/in/rupesh)  
-- **Twitter**: [@rupesh](https://twitter.com/rupesh)  
+- **Email**: [rupesh.email@example.com](mailto:chrupesh2425@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/rupesh]([https://linkedin.com/in/rupesh](https://www.linkedin.com/in/rupeshchidupudi/))  
+- **Twitter**: [@rupesh](https://twitter.com/chidupudi)  
 
 ---
 
-<div align="center">
-  <h3>💻 “Building the future, one line of code at a time.”</h3>
-</div>
+
