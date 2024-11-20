@@ -1,26 +1,74 @@
-# Hi there, I'm Rupesh 👋
+# Hi there, I'm Rupesh! 👋  
 
-Welcome to my GitHub profile! I'm passionate about programming, problem-solving, and collaborative teamwork. Here's a bit about me:
+Welcome to my GitHub profile!  
+I'm passionate about **programming**, **problem-solving**, and **collaborative teamwork**.  
+Let’s create amazing projects together! 🚀  
 
-## 🚀 Programming Skills
+---
 
-- **Languages:** JavaScript, Python, Java
-- **Frameworks:** React, Node.js, Express, Flask
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, Postman
+## 🔧 **Tech Stack**
 
-## 🧠 Reasoning and Problem-Solving
+### 🖥️ Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-I have a strong foundation in algorithms and data structures, which I utilize to solve complex problems efficiently. My logical thinking and analytical skills help me break down problems and develop effective solutions.
+### ⚙️ Frameworks & Libraries  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)  
 
-## 🤝 Collaborative Team Player
+### 🛠️ Databases & Tools  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 
-I believe in the power of teamwork and collaboration. I've worked on various projects where communication and teamwork were key to success. I enjoy sharing knowledge, mentoring others, and learning from my peers.
+---
 
-## 👥 Team Building
+## 🧠 **Problem-Solving**
 
-I have experience in leading teams and fostering a collaborative environment. I strive to create an inclusive atmosphere where every team member feels valued and motivated to contribute their best.
+- Deep understanding of **data structures** and **algorithms**  
+- Experience building **scalable** and **efficient solutions**  
+- Enjoy tackling complex challenges with **logical thinking** and **creativity**  
 
+---
 
-Let's build something amazing together!
+## 🤝 **Collaboration & Leadership**
 
+- Experienced in **team building** and fostering a **collaborative environment**  
+- Strong advocate for **knowledge sharing** and **mentorship**  
+- Thrives in **inclusive** and **goal-oriented** teams  
+
+---
+
+## 🌱 **What I'm Currently Learning**
+
+- **Mobile Development**: Building apps with **React Native**  
+- **DevOps**: Diving into **Kubernetes** and container orchestration  
+- **AI/ML**: Exploring tools like **TensorFlow** and **PyTorch**  
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chidupudi&show_icons=true&hide=issues&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chidupudi&theme=radical" />
+</div>
+
+---
+
+## 📫 **Get in Touch**
+
+- **Email**: [rupesh.email@example.com](mailto:rupesh.email@example.com)  
+- **LinkedIn**: [linkedin.com/in/rupesh](https://linkedin.com/in/rupesh)  
+- **Twitter**: [@rupesh](https://twitter.com/rupesh)  
+
+---
+
+<div align="center">
+  <h3>💻 “Building the future, one line of code at a time.”</h3>
+</div>
