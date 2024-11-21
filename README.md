@@ -65,6 +65,6 @@ Let’s create amazing projects together! 🚀
 
 - **Email**: [Rupesh Chidupudi](mailto:chrupesh2425@gmail.com)  
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/rupeshchidupudi/)  
-- **Twitter**: [@chidupudi](https://twitter.com/chidupudi)  
+- **Twitter**: [chidupudi](https://twitter.com/chidupudi)  
 
 
