@@ -183,19 +183,19 @@ const developer = {
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <br><strong>📱 Mobile Development</strong>
   <br>Building cross-platform mobile apps
-  <br><img src="https://progress-bar.dev/65/?title=Progress&width=150&color=61dafb" />
+  <br><br>**Progress:** `█████████████░░░░░░░` **65%**
 </td>
 <td width="33%" align="center" style="border: 1px solid #326ce5; border-radius: 10px; padding: 20px;">
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
   <br><strong>☸️ Container Orchestration</strong>
   <br>Scaling applications with K8s
-  <br><img src="https://progress-bar.dev/45/?title=Progress&width=150&color=326ce5" />
+  <br><br>**Progress:** `█████████░░░░░░░░░░░` **45%**
 </td>
 <td width="33%" align="center" style="border: 1px solid #ff9900; border-radius: 10px; padding: 20px;">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <br><strong>☁️ Cloud Computing</strong>
   <br>Deploying scalable cloud solutions
-  <br><img src="https://progress-bar.dev/55/?title=Progress&width=150&color=ff9900" />
+  <br><br>**Progress:** `███████████░░░░░░░░░` **55%**
 </td>
 </tr>
 </table>
