@@ -117,41 +117,41 @@ const developer = {
 <td width="25%" valign="top" style="border: 1px solid #E1306C; border-radius: 10px; padding: 15px;">
 
 ### 🎨 Frontend Development
-- **JavaScript** - ![Advanced](https://progress-bar.dev/90/?title=&width=100&color=f7df1e)
-- **React** - ![Advanced](https://progress-bar.dev/85/?title=&width=100&color=61dafb)
-- **HTML5/CSS3** - ![Expert](https://progress-bar.dev/95/?title=&width=100&color=e34f26)
-- **TypeScript** - ![Intermediate](https://progress-bar.dev/70/?title=&width=100&color=3178c6)
-- **Responsive Design** - ![Advanced](https://progress-bar.dev/88/?title=&width=100&color=06d6a0)
+- **JavaScript** - `████████████████████░` **Advanced**
+- **React** - `██████████████████░░░` **Advanced**  
+- **HTML5/CSS3** - `████████████████████░` **Expert**
+- **TypeScript** - `██████████████░░░░░░░` **Intermediate**
+- **Responsive Design** - `███████████████████░░` **Advanced**
 
 </td>
 <td width="25%" valign="top" style="border: 1px solid #C13584; border-radius: 10px; padding: 15px;">
 
 ### ⚡ Backend Development
-- **Python** - ![Advanced](https://progress-bar.dev/88/?title=&width=100&color=3776ab)
-- **Node.js** - ![Advanced](https://progress-bar.dev/82/?title=&width=100&color=339933)
-- **Java** - ![Intermediate](https://progress-bar.dev/75/?title=&width=100&color=007396)
-- **Express.js** - ![Advanced](https://progress-bar.dev/80/?title=&width=100&color=000000)
-- **REST APIs** - ![Advanced](https://progress-bar.dev/85/?title=&width=100&color=ff6b6b)
+- **Python** - `███████████████████░░` **Advanced**
+- **Node.js** - `██████████████████░░░` **Advanced**
+- **Java** - `███████████████░░░░░░` **Intermediate**
+- **Express.js** - `█████████████████░░░░` **Advanced**
+- **REST APIs** - `██████████████████░░░` **Advanced**
 
 </td>
 <td width="25%" valign="top" style="border: 1px solid #833AB4; border-radius: 10px; padding: 15px;">
 
 ### 🗄️ Database & Storage
-- **MongoDB** - ![Advanced](https://progress-bar.dev/85/?title=&width=100&color=47a248)
-- **MySQL** - ![Advanced](https://progress-bar.dev/83/?title=&width=100&color=4479a1)
-- **PostgreSQL** - ![Intermediate](https://progress-bar.dev/70/?title=&width=100&color=336791)
-- **Redis** - ![Basic](https://progress-bar.dev/50/?title=&width=100&color=dc382d)
-- **Database Design** - ![Advanced](https://progress-bar.dev/88/?title=&width=100&color=4dabf7)
+- **MongoDB** - `██████████████████░░░` **Advanced**
+- **MySQL** - `██████████████████░░░` **Advanced**
+- **PostgreSQL** - `██████████████░░░░░░░` **Intermediate**
+- **Redis** - `██████████░░░░░░░░░░░` **Basic**
+- **Database Design** - `███████████████████░░` **Advanced**
 
 </td>
 <td width="25%" valign="top" style="border: 1px solid #405DE6; border-radius: 10px; padding: 15px;">
 
 ### 🔧 DevOps & Tools
-- **Git/GitHub** - ![Expert](https://progress-bar.dev/95/?title=&width=100&color=f05032)
-- **Docker** - ![Intermediate](https://progress-bar.dev/68/?title=&width=100&color=2496ed)
-- **AWS** - ![Basic](https://progress-bar.dev/55/?title=&width=100&color=ff9900)
-- **Linux** - ![Intermediate](https://progress-bar.dev/72/?title=&width=100&color=fcc624)
-- **CI/CD** - ![Basic](https://progress-bar.dev/45/?title=&width=100&color=326ce5)
+- **Git/GitHub** - `████████████████████░` **Expert**
+- **Docker** - `█████████████░░░░░░░░` **Intermediate**
+- **AWS** - `███████████░░░░░░░░░░` **Basic**
+- **Linux** - `██████████████░░░░░░░` **Intermediate**
+- **CI/CD** - `█████████░░░░░░░░░░░░` **Basic**
 
 </td>
 </tr>
