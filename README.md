@@ -141,7 +141,7 @@ Java        ███████████████░░░░░░   75
 
 </div>
 
-> *Replace 'project1' and 'project2' with your actual repository names*
+> *ERP & Python *
 
 ---
 
