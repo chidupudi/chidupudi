@@ -268,15 +268,15 @@ class RupeshStats:
   <tr>
     <td width="50%">
       <div align="center">
-        <a href="https://github.com/chidupudi/project1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=chidupudi&repo=project1&theme=chartreuse-dark&border_color=00ff00&border_radius=10" />
+        <a href="https://github.com/chidupudi/ERP">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=chidupudi&repo=ERP&theme=chartreuse-dark&border_color=00ff00&border_radius=10" />
         </a>
       </div>
     </td>
     <td width="50%">
       <div align="center">
-        <a href="https://github.com/chidupudi/project2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=chidupudi&repo=project2&theme=chartreuse-dark&border_color=00ff00&border_radius=10" />
+        <a href="https://github.com/chidupudi/bbcollab">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=chidupudi&repo=bbcollab&theme=chartreuse-dark&border_color=00ff00&border_radius=10" />
         </a>
       </div>
     </td>
@@ -284,22 +284,20 @@ class RupeshStats:
   <tr>
     <td width="50%">
       <div align="center">
-        <a href="https://github.com/chidupudi/project3">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=chidupudi&repo=project3&theme=chartreuse-dark&border_color=00ff00&border_radius=10" />
+        <a href="https://github.com/chidupudi/adp-network">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=chidupudi&repo=adp-network&theme=chartreuse-dark&border_color=00ff00&border_radius=10" />
         </a>
       </div>
     </td>
     <td width="50%">
       <div align="center">
-        <a href="https://github.com/chidupudi/project4">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=chidupudi&repo=project4&theme=chartreuse-dark&border_color=00ff00&border_radius=10" />
+        <a href="https://github.com/chidupudi/Python">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=chidupudi&repo=Python&theme=chartreuse-dark&border_color=00ff00&border_radius=10" />
         </a>
       </div>
     </td>
   </tr>
 </table>
-
-> *Replace with your actual repository names to showcase your best work*
 
 ---
 
