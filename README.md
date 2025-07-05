@@ -200,20 +200,20 @@ class RupeshStats:
 
 <div align="center">
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=chidupudi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=10&border_color=00ff00"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=chidupudi&show_icons=true&theme=chartreuse-dark&border_radius=10&border_color=00ff00&hide=issues,contribs"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidupudi&layout=compact&langs_count=8&theme=chartreuse-dark&border_radius=10&border_color=00ff00"/>
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chidupudi&theme=chartreuse-dark&border_radius=10&border=00ff00" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chidupudi&theme=chartreuse-dark&border_radius=10&border=00ff00&hide_longest_streak=true" alt="GitHub Streak" />
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chidupudi&theme=github-compact&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chidupudi&theme=react-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
   
 </div>
 
