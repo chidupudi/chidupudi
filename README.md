@@ -73,15 +73,7 @@ const codingPrinciples = {
 };
 ```
 
-### 🏅 Achievement Highlights
-- 🔥 **500+ Days** coding streak
-- 📈 **95% Green** contribution calendar
-- 🚀 **50+ Projects** completed
-- ⭐ **100+ Stars** earned across repositories
-- 🤝 **Active contributor** to open source
 
-</td>
-<td width="35%" valign="top">
 
 ### 📊 Real-time GitHub Insights
 
