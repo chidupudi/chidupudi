@@ -300,14 +300,11 @@ const journey = {
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
 
 <div align="center">
-  <h3>💻 "The journey of a thousand miles begins with a single step" 🚀</h3>
+ 
   <p><b>🎓 B.Tech 4th Year • 🌱 Self-taught Developer • 💡 Always Learning</b></p>
-  <p><em>✨ From curious student to passionate developer - the journey continues! ✨</em></p>
+\
 </div>
 
 <div align="center">
