@@ -340,26 +340,6 @@ const technicalSkills = {
 
 ---
 
-## 💡 **What Clients Say**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h4>⭐⭐⭐⭐⭐</h4>
-        <p><i>"The POS system has transformed how we handle orders. Real-time updates and zero downtime!"</i></p>
-        <p><b>- Restaurant Owner, Hyderabad</b></p>
-      </td>
-      <td align="center" width="50%">
-        <h4>⭐⭐⭐⭐⭐</h4>
-        <p><i>"Analytics dashboard gives us insights we never had before. Worth every penny!"</i></p>
-        <p><b>- Cafe Chain Manager</b></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ## 🤝 **Let's Build Something Amazing Together**
 
