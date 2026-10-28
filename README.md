@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rupeshchidupudi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:chrupesh2425@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:rupesh@datenwork.in"><img src="https://img.shields.io/badge/rupesh@datenwork.in-D14836?style=flat-square&logo=maildotru&logoColor=white" alt="Email"/></a>
   <a href="https://datenwork.in"><img src="https://img.shields.io/badge/datenwork.in-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
 
@@ -83,3 +83,8 @@ scale, and simple enough for a small team to operate.
 
 Full-stack products for clients (restaurant operations, healthcare and campus management systems),
 plus ML experiments in network security (DDoS detection) and energy forecasting.
+
+### Collaboration
+
+For collaboration or contribution, reach me at **[rupesh@datenwork.in](mailto:rupesh@datenwork.in)**
+or **[chrupesh2425@gmail.com](mailto:chrupesh2425@gmail.com)**.
