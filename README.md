@@ -83,7 +83,3 @@ scale, and simple enough for a small team to operate.
 
 Full-stack products for clients (restaurant operations, healthcare and campus management systems),
 plus ML experiments in network security (DDoS detection) and energy forecasting.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidupudi&layout=compact&hide_border=true&langs_count=6" height="150"/>
-</p>
